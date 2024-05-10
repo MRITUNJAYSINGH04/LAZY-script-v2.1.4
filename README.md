@@ -143,7 +143,7 @@ View your MAC faster
 ```
 cd
 apt-get update
-git clone https://github.com/arismelachroinos/lscript.git
+git clone https://github.com/MRITUNJAYSINGH04/LAZY-script-v2.1.4.git
 cd lscript
 chmod +x install.sh
 ./install.sh
