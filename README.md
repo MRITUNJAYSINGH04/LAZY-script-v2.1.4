@@ -128,8 +128,7 @@ View your MAC faster
 (make sure you are a root user)
 
 <p>
-	Official Installation Tutorial on Kali Linux 2020.5:
-	https://youtu.be/xcb5uwP5nSU
+	
 </p>
 
 **Be carefull.If you download it as a .zip file, it will not run.Make sure to follow these simple instructions.**
