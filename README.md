@@ -2,7 +2,6 @@
 
 ## Welcome to the LAZY script  v2.1.4
 <p align="center">
-<img src="https://i.imgur.com/awIplS6.jpg"/>
 <img src="https://i.imgur.com/pbq0DuE.jpg"/>
 <img src="https://i.imgur.com/QgTLKxR.jpg"/>
 <img src="https://i.imgur.com/oJIk2oG.jpg"/>
