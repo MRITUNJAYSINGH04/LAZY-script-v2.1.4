@@ -172,11 +172,9 @@ Run the script
 Type "update"
 ```
 
-### Shoutouts
+### Support us
 
-##### [OpenSource Projects](https://www.facebook.com/opensourceprojects/)
-
-OpenSource Projects is a Facebook community page who's goal is to give developers, new and old, a easy and simple place to share their opensource contributions and projects. I personally think this is an awesome idea, I know how hard it is to get your code noticed by people and support these guys 100%. Go ahead and give them a like [here](https://www.facebook.com/opensourceprojects/). They will share any opensource project you send them for free. Thank you OpenSource Projects for giving developers a place to share work with one another!
-
+Youtube: https://www.youtube.com/channel/UCbRrJL5--9LFT5N_411UUmA
+Instagram: https://www.instagram.com/myself_immortal/
 
 
