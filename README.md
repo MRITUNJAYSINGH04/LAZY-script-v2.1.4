@@ -131,7 +131,9 @@ View your MAC faster
 # How to install (Kali Linux)
 (make sure you are a root user)
 
-
+<p>
+	Official Installation Tutorial on Kali Linux 2020.5:
+	https://youtu.be/xcb5uwP5nSU
 </p>
 
 **Be carefull.If you download it as a .zip file, it will not run.Make sure to follow these simple instructions.**
@@ -141,7 +143,7 @@ View your MAC faster
 ```
 cd
 apt-get update
-git clone https://github.com/MRITUNJAYSINGH04/LAZY-script-v2.1.4.git
+git clone https://github.com/arismelachroinos/lscript.git
 cd lscript
 chmod +x install.sh
 ./install.sh
@@ -171,6 +173,14 @@ Run the script
 Type "update"
 ```
 
+### Shoutouts
 
+##### [OpenSource Projects](https://www.facebook.com/opensourceprojects/)
 
+OpenSource Projects is a Facebook community page who's goal is to give developers, new and old, a easy and simple place to share their opensource contributions and projects. I personally think this is an awesome idea, I know how hard it is to get your code noticed by people and support these guys 100%. Go ahead and give them a like [here](https://www.facebook.com/opensourceprojects/). They will share any opensource project you send them for free. Thank you OpenSource Projects for giving developers a place to share work with one another!
+
+### Donate
+If you like my work, consider buying me a coffee :)
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GC9RSY4CS6KAY)
 
